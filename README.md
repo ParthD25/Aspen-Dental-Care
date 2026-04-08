@@ -8,7 +8,8 @@ It is built for presentation: launch visuals, animated front page, and live-site
 
 - Animated portfolio-style front page
 - Branded layout optimized for desktop and mobile
-- Live website screenshot capture with a delay to prevent blank images
+- Per-tab live website screenshots (Home, Service, Gallery, Reviews, About, FAQ, Patient Concierge)
+- 15-second delay before each screenshot to prevent blank images
 
 ## Live website
 
@@ -16,7 +17,13 @@ It is built for presentation: launch visuals, animated front page, and live-site
 
 ## Preview
 
-![Aspen Dental Care Live Homepage](assets/aspen-home-live.png)
+![Home Tab](assets/tab-home.png)
+![Service Tab](assets/tab-services.png)
+![Gallery Tab](assets/tab-gallery.png)
+![Reviews Tab](assets/tab-reviews.png)
+![About Tab](assets/tab-about.png)
+![FAQ Tab](assets/tab-faq.png)
+![Patient Concierge Tab](assets/tab-patient-concierge.png)
 
 ## Run locally
 
