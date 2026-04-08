@@ -18,8 +18,8 @@ It is built for presentation: launch visuals, animated front page, and live-site
 ## Preview
 
 ![Home Tab](assets/tab-home.png)
-![Service Tab](assets/tab-services.png)
 ![Gallery Tab](assets/tab-gallery.png)
+![Service Tab](assets/tab-services.png)
 ![Reviews Tab](assets/tab-reviews.png)
 ![About Tab](assets/tab-about.png)
 ![FAQ Tab](assets/tab-faq.png)
