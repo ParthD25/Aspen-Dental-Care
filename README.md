@@ -9,7 +9,6 @@ It is built for presentation: launch visuals, animated front page, and live-site
 - Animated portfolio-style front page
 - Branded layout optimized for desktop and mobile
 - Per-tab live website screenshots (Home, Service, Gallery, Reviews, About, Patient Concierge)
-- 15-second delay before each screenshot to prevent blank images
 
 ## Live website
 
@@ -24,11 +23,4 @@ It is built for presentation: launch visuals, animated front page, and live-site
 ![About Tab](assets/tab-about.png)
 ![Patient Concierge Tab](assets/tab-patient-concierge.png)
 
-## Run locally
 
-1. Clone this repository
-2. Open index.html in your browser
-
-## Inspiration
-
-- https://github.com/MoncyDev/Portfolio-Website
